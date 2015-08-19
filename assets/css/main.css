@@ -13,7 +13,20 @@
 		
 	}
 	
+		#nav { width:50%;
+				float:left;
+				text-align:center;
+				 
+			}
+			
+		#section {
+    width:50%;
+    float:right;
+   text-align:center; 	 
+}
+
 	
+
 
 	
 	
@@ -190,7 +203,7 @@
 		}
 
 		.container.\37 5\25 {
-			width: 75%;
+			width:75%;
 		}
 
 		.container.\35 0\25 {
